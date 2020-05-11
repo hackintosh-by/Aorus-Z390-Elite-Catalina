@@ -1,5 +1,8 @@
 # Aorus-Z390-Elite-Catalina
 
+![IMG_9575](https://user-images.githubusercontent.com/65073658/81586679-90c32980-93be-11ea-98fa-6373a4b06fc1.jpg)
+![IMG_9583](https://user-images.githubusercontent.com/65073658/81586689-9456b080-93be-11ea-84c7-de67c2e7c67c.jpg)
+
 It's my version of EFI folders for booting Catalina 10.15.4. U may download latest EFI only from Release tab.<br>
 
 
